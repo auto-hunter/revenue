@@ -8,7 +8,7 @@ COLUMN_LABELS = {
     "product_spec": "품명 및 규격", "gross_weight": "총중량",
     "bobbin_weight": "보빈중량", "net_weight": "실중량", "subtotal": "소계",
     "bobbin_spec": "보빈명세 규격", "bobbin_quantity": "보빈명세 수량",
-    "customer": "거래처", "transaction_date": "날짜",
+    "customer": "거래처", "corporate_entity": "거래법인", "transaction_date": "날짜",
     "source_file": "출처 파일", "page_number": "페이지",
 }
 
