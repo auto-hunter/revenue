@@ -11,8 +11,8 @@ from services.document_parser import DocumentParseError, parse_document
 from services.excel_exporter import COLUMN_LABELS, create_excel
 
 
-st.set_page_config(page_title="거래명세표 AI 추출", page_icon="📄", layout="wide")
-st.title("거래명세표 AI 추출")
+st.set_page_config(page_title="거래명세표 데이터 추출 AI 에이전트", page_icon="📄", layout="wide")
+st.title("거래명세표 데이터 추출 AI 에이전트")
 st.caption("스캔 PDF 또는 이미지를 분석해 Excel 파일로 변환합니다.")
 
 
