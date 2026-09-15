@@ -28,7 +28,7 @@ def get_api_key() -> str | None:
 
 
 uploaded_files = st.file_uploader(
-    "분석할 파일을 선택하세요",
+    "분석할 파일을 선택하세요.",
     type=["pdf", "png", "jpg", "jpeg"],
     accept_multiple_files=True,
 )
